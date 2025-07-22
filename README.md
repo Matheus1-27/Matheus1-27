@@ -1,11 +1,16 @@
 # 👨🏽‍💻 Matheus Marques
 **`Futuro Desenvolvedor FullStack`**
 
-Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará. Estou Terminando o ensino médio na Escola Estadual de Educação Profissional(EEEP), no curso técnico em informática. Sou motivado por tecnologia e compartilho meu conhecimento através desse perfil do GitHub, onde desenvolvo projetos web no decorrer da minha carreira academica, e também através do Instagram, com o perfil chamado "[Theus dev](https://instagram.com/theus._dev)".
+Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará. Estou Terminando o ensino médio na Escola Estadual de Educação Profissional (EEEP), no curso técnico em informática. Sou motivado por tecnologia e compartilho meu conhecimento através desse perfil do GitHub, onde desenvolvo projetos no decorrer da minha carreira academica, assim como através do Instagram, com o perfil chamado "[Theus dev](https://instagram.com/theus._dev)".
 - 🔭 Hoje trabalho prestando serviços para empresas locais, criando sites usando ferramentas de gerenciamento de conteudo(CMS).
 - 🌱 Atualmente estudando conceitos e ferramentas para Full Stack Web Development.
 - Contate-me no Email: matheus.marques16@aluno.ce.gov.br
 
+### 📚 Certificação Acadêmica
+- "[Google IT Support Professional Certificate | Coursera](https://www.credly.com/go/QLXd1DVf)"
+- "[AWS Academy Cloud Foundations | AWS Academy Graduate](https://www.credly.com/go/B0Bzth8S)"
+- "Python do Básico ao Intermediário | FAE-Dev USP"
+- "Jornada Python | Hashtag Treinamentos"
 <p align="left">
     <a href="https://github.com/Matheus1-27?tab=repositories&sort=stargazers">
         <img 
@@ -23,7 +28,11 @@ Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará
     </a>
 </p>
 
+
+<!--  Comentario de icones 
+
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
@@ -109,6 +118,9 @@ Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará
 
 <br/>
 <br/>
+
+
+-->
 
 ### 📊 Estatísticas
 
