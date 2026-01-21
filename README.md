@@ -4,7 +4,7 @@
 Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará. Estou Terminando o ensino médio na Escola Estadual de Educação Profissional (EEEP), no curso técnico em informática. Sou motivado por tecnologia e compartilho meu conhecimento através desse perfil do GitHub, onde desenvolvo projetos no decorrer da minha carreira academica, assim como através do Instagram, com o perfil chamado "[Theus dev](https://instagram.com/theus._dev)".
 - 🔭 Hoje trabalho prestando serviços para empresas locais, criando sites usando ferramentas de gerenciamento de conteudo(CMS).
 - 🌱 Atualmente estudando conceitos e ferramentas para Full Stack Web Development.
-- Contate-me no Email: matheus.marques16@aluno.ce.gov.br
+- Contate-me no Email: -
 
 ### 📚 Certificação Acadêmica
 - "[Google IT Support Professional Certificate | Coursera](https://www.credly.com/go/QLXd1DVf)"
