@@ -28,10 +28,18 @@ Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará
     </a>
 </p>
 
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="java" 
+    title="java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <!--  Comentario de icones 
 
-### 🤖 Linguagens e Tecnologias
 
 
 <img 
@@ -82,14 +90,7 @@ Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+
 
 <img 
     align="left" 
