@@ -33,8 +33,8 @@ Olá, Me chamo Matheus Nascimento Marques, tenho 17 anos e sou natural do Ceará
     align="left" 
     alt="java" 
     title="java"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="60px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 </br>
