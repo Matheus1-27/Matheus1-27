@@ -126,12 +126,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Utilizo este GitHub
 <br/>
 <br/>
 
-
--->
-
-### 📊 Estatísticas
-
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -139,6 +133,12 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Utilizo este GitHub
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Matheus1-27&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+-->
+
+### 📊 Estatísticas
+
+<p>
 
 <img 
       align="left" 
