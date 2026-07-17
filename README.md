@@ -35,12 +35,15 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Utilizo este GitHub
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="java" 
-    title="java"
+    alt="python" 
+    title="python"
     width="60px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+
 </br>
 </br>
 
@@ -138,25 +141,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Utilizo este GitHub
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Python/Python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
-/>
 
-
-</p>
 
 
