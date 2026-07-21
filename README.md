@@ -2,7 +2,7 @@
 **`Futuro Desenvolvedor Back-End`**
 
 👋 Olá, eu sou o Matheus Nascimento Marques <br>
-🎓 Estudante de Engenharia de Software na Universidade Pitágoras Unopar – Anhanguera <br>
+🎓 Estudante de Sistemas da Informação – Universidade Federal do Ceará(UFC) <br>
 💻 Técnico em Informática <br>
 📍 Ceará, Brasil <br>
 Sou apaixonado por tecnologia e desenvolvimento de software. Utilizo este GitHub para compartilhar projetos, estudos e experimentos, colocando em prática conhecimentos adquiridos na graduação e em estudos independentes.Tenho interesse em aprender continuamente, explorar novas tecnologias e evoluir como profissional na área de TI e desenvolvimento de software. Assim, através do Instagram, com o perfil chamado "[Theus dev](https://instagram.com/math_n.01)".
